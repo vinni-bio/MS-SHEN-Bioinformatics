@@ -1,8 +1,7 @@
 # LEEBAO-BIOINFORMATICS
 
-Хакатон по биоинформатике Лаборатории экологии и эволюционной биологии водных организмов ДВФУ
-
-## ДЕНЬ 01. УСТАНОВКА LINUX И ДРУГИХ ПРОГРАММ
+Интенсивный курс по биоинформатике для магистрантов ШЕН
+## ДЕНЬ 01. ПРАКТИКА: установка программ
 
 ## СОДЕРЖАНИЕ
    A. [Установка Linux](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md#a-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-linux%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D0%B5%D0%BC-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D1%83-%D0%BD%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%B2-%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC-%D0%BE%D0%BA%D0%BD%D0%B5)  
@@ -11,9 +10,7 @@
    D. [Настройка PROXY в Linux Ubuntu](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md#d-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-proxy-%D0%B2-linux%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B5%D1%85-%D0%BA%D1%82%D0%BE-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D1%81%D1%8F-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B9-%D1%81%D0%B5%D1%82%D1%8C%D1%8E-%D0%B4%D0%B2%D1%84%D1%83-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5)  
    E. [Обновление системы Linux Ubuntu](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md#e-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-linux-ubuntu)  
    F. [Установка необходимых пакетов для Linux Ubuntu](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md#f-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-linux-ubuntu)  
-   G. [Установка среды Anaconda в Linux Ubuntu](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md#g-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D1%8B-anaconda-%D0%B2-linux-ubuntu)  
-   H. [Установка интерпретатора языка R](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md#h-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80%D0%B0-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-r)   
-   I. [Установка текстового редактора SUBLIME TEXT 3](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md#i-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0-sublime-text-3)  
+   G. [Установка текстового редактора SUBLIME TEXT 3](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md#i-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0-sublime-text-3)  
 
 ### A. Установка Linux<br/>(открываем ссылку на видео в новом окне)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=u5QyjHIYwTQE
@@ -216,49 +213,8 @@ sudo apt-get install -y xorg-dev apt-transport-https ca-certificates software-pr
    `xorg-dev` – инструмент для работы с окнами  
    `zlib1g-dev` – библиотека для компрессии файлов  
 
-### G. Установка среды Anaconda в Linux Ubuntu
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" 
-alt="ANACONDA LOGO" width="360" border="10" />
-
-##### ВНИМАНИЕ: все примеры команд относятся к релизу октябрь 2019.<br/>При установке вам необходимо поменять название файла на последнюю версию Anaconda
-
-1. Скачайте установочный пакет Anaconda для Python 3 отсюда [https://www.anaconda.com/distribution](https://www.anaconda.com/distribution/#linux)
-```
-wget https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
-```
-2. Проверьте совместимость вашей системы с SHA-256
-```
-sha256sum /path/filename
-```
-3. Запустите установочный скрипт Anaconda из папки, куда он был скачан
-```
-bash ~/Downloads/Anaconda3-2019.10-Linux-x86_64.sh
-```
-4. Откройте лицензию, нажав `Enter`, и согласитесь с ее условиями, введя команду `yes`
-5. Инициализируйте среду Anaconda, введя команду `yes`
-6. Не устанавливайте PyCharm
-7. Перезапустите терминал
-8. Деактивируйте базовую среду Anaconda через две команды
-```
-conda init
-conda config --set auto_activate_base False
-```
-9. Поздравляю, Вы успешно установили среду Anaconda! Проверьте ее функциональность, запустив команду `anaconda-navigator`
-
-### H. Установка интерпретатора языка R 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/500px-R_logo.svg.png" alt="R LOGO" width="240" border="10" />
-
-##### Выполните по порядку следующие команды в терминале
-```
-sudo apt-get update -y
-sudo apt-get install -y libopenblas-base
-sudo apt-get install -y r-base
-sudo apt-get install -y r-base-dev
-```
-
-### I. Установка текстового редактора Sublime Text 3
+### G. Установка текстового редактора Sublime Text 3
 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="SUBLIME LOGO" width="120" border="10" />
 

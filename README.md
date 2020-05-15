@@ -1,12 +1,12 @@
 # LEEBAO-BIOINFORMATICS
 
-Интенсивный курс по биоинформатике 
+Интенсивный курс по биоинформатике для магистрантов ШЕН
 
 
 ## СОДЕРЖАНИЕ НАШИХ ВСТРЕЧ
 (кликайте по ссылке, чтобы перейти на нужную страничку)
 
-* [ДЕНЬ 01. ВВОДНАЯ](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md) УСТАНОВКА LINUX И ДРУГИХ ПРОГРАММ
-* [ДЕНЬ 01. ПРАКТИКА: установка программ](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY01_25NOV19_LINUX.md) УСТАНОВКА LINUX И ДРУГИХ ПРОГРАММ
-* [ДЕНЬ 01. ПРАКТИКА: командная строка](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY02_02DEC19_BASH.md) ЗНАКОМСТВО С СИСТЕМОЙ LINUX И КОНСОЛЬЮ BASH
-* [ДЕНЬ 01. ПРАКТИКА: регулярные выражения](https://github.com/vinni-bio/LEEBAO-BIOINFORMATICS/blob/master/INSTRUCTIONS/DAY03_09DEC19_REGEXP.md) РЕГУЛЯРНЫЕ ВЫРАЖЕНИЯ
+* ДЕНЬ 01. ВВОДНАЯ ЛЕКЦИЯ
+* [ДЕНЬ 01. ПРАКТИКА: ](https://github.com/vinni-bio/MS-SHEN-Bioinformatics/blob/master/INSTRUCTIONS/DAY01_P2_LINUX.md#%D0%B4%D0%B5%D0%BD%D1%8C-01-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC) УСТАНОВКА LINUX И ДРУГИХ ПРОГРАММ
+* [ДЕНЬ 01. ПРАКТИКА: ](https://github.com/vinni-bio/MS-SHEN-Bioinformatics/blob/master/INSTRUCTIONS/DAY01_P3_BASH.md#%D0%B4%D0%B5%D0%BD%D1%8C-02-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BE%D0%B9-linux-%D0%B8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C%D1%8E-bash) ЗНАКОМСТВО С СИСТЕМОЙ LINUX И КОНСОЛЬЮ BASH
+* [ДЕНЬ 01. ПРАКТИКА: ](https://github.com/vinni-bio/MS-SHEN-Bioinformatics/blob/master/INSTRUCTIONS/DAY01_P4_REGEXP.md#%D0%B4%D0%B5%D0%BD%D1%8C-01-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F) РЕГУЛЯРНЫЕ ВЫРАЖЕНИЯ

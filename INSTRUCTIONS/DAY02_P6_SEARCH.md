@@ -6,8 +6,8 @@
 
 ### Severe acute respiratory syndrome-related coronavirus (SARS-CoV-2)<br/>Острое респираторное инфекционное заболевание (ОРВИ)
 
-<img src="https://www.viprbrc.org/brc/images/2019_nCoV_virion_genome.png" 
-alt="SARS coronavirus" width="600" border="5" />
+<img src="https://github.com/vinni-bio/MS-SHEN-Bioinformatics/blob/master/FILES/virus.png" 
+alt="SARS-CoV-2 coronavirus" width="600" border="5" />
 
 ### ИНФОРМАЦИЯ ПО COVID-19
 

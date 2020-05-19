@@ -2,7 +2,7 @@
 
 Интенсивный курс по биоинформатике для магистрантов ШЕН
 
-## ДЕНЬ 01. ЛЕКЦИЯ: БАЗЫ ДАННЫХ
+## ДЕНЬ 02. ЛЕКЦИЯ: БАЗЫ ДАННЫХ
 
 ### БАЗЫ ГЕНОМНЫХ ДАННЫХ:
 * [INSDC: International Nucleotide Sequence Database Collaboration](http://www.insdc.org/)

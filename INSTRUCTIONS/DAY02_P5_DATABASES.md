@@ -1,8 +1,8 @@
 # LEEBAO-BIOINFORMATICS
 
-Хакатон по биоинформатике Лаборатории экологии и эволюционной биологии водных организмов ДВФУ
+Интенсивный курс по биоинформатике для магистрантов ШЕН
 
-## ДЕНЬ 08. БАЗЫ ДАННЫХ
+## ДЕНЬ 01. ЛЕКЦИЯ: БАЗЫ ДАННЫХ
 
 ### БАЗЫ ГЕНОМНЫХ ДАННЫХ:
 * [INSDC: International Nucleotide Sequence Database Collaboration](http://www.insdc.org/)
@@ -111,8 +111,8 @@
 
 2. Установка ENTREZ:
 
-* Для установки программ создайте директорию `PROGRAMS` в вашей домашней директории
-* Скачайте [Entrez](ftp://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect/edirect.tar.gz) в директорию `PROGRAMS`
+* Для установки программ создайте директорию `BIOCLASS` в вашей домашней директории
+* Скачайте Entrez [отсюда](ftp://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect) в директорию `BIOCLASS`
 * Распакуйте архив
 * Удалите архив
 * Переименуйте директорию `edirect` в `EntrezDirect`

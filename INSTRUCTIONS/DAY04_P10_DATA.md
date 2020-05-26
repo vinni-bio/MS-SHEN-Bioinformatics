@@ -2,7 +2,7 @@
 
 Интенсивный курс по биоинформатике для магистрантов ШЕН
 
-## ДЕНЬ 03. ПРАКТИКА: ВЫРАВНИВАНИЕ ПОСЛЕДОВАТЕЛЬНОСТЕЙ И АНАЛИЗ ЭВОЛЮЦИОННОЙ МОДЕЛИ
+## ДЕНЬ 04. ПРАКТИКА: ВЫРАВНИВАНИЕ ПОСЛЕДОВАТЕЛЬНОСТЕЙ И АНАЛИЗ ЭВОЛЮЦИОННОЙ МОДЕЛИ
 
 
 ### НЕОБХОДИМЫЕ ПРОГРАММЫ
@@ -49,42 +49,42 @@ alt="BLAST" width="360" border="5" />
 13. Сохраните внешнюю группу по гену *cytb* в отдельный файл в формате 'FASTA':<br/>
 [cytb-outgroup.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/cytb-outgroup.fasta)
 
-### D. Multiple sequence alignment with MUSCLE in MEGA 7.0
-1. Open [MEGA 7.0](http://www.megasoftware.net/)
-2. Open **Data** menu and select **Open a File** to open [cytb-ursidae.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/cytb-ursidae.fasta) file for the alignment
-3. On the top, open **Edit** menu and select **Insert sequence from file** to add `cytb-outgroup.fasta`
-4. Select all sequences `Ctr+A` and click **MUSCLE** icon on the top bar
-5. Click **Compute**
-6. Trim ends of the alignment with gaps
-6. On the top, open **Data** menu and select **Export alignment** to save the results in:<br/>
+### Г. Выравнивание множественных последовательностей алгоритмом MUSCLE в MEGA
+1. Запустите программу [MEGA X](http://www.megasoftware.net/)
+2. Откройте меню **Data** и выберите **Open a File**, чтобы открыть файл [cytb-ursidae.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/cytb-ursidae.fasta)
+3. Выберите меню **Edit** и нажмите **Insert sequence from file**, чтобы вставить последовательность `cytb-outgroup.fasta`
+4. Выберите все последовательности `Ctr+A` и нажмите на кнопку **MUSCLE** в верхнем меню
+5. Нажмите посчитать **Compute**
+6. Обрежте концы с пропусками
+7. Откройте меню **Data** и выберите **Export alignment**, чтобы сохранить результаты:<br/>
 [cytb.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/cytb.fasta)
-7. REPEAT the same procedure with *irbp* gene:<br/>
+8. Повторите ту же самую процедуру для гена *irbp* :<br/>
 [irbp.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/irbp.fasta)
 
-### E. Sequence file format conversion
-1. Open [Sequence Matrix](http://gaurav.github.io/taxondna/) program
-2. Drag and drop [irbp.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/irbp.fasta) file to Sequence Matrix window
-3. Click **Use species names**
-4. Export sequences in Nexus format ("naked" Nexus for GARLI):<br/>
+### Д. Конвертация формата последовательностей и объединение последовательностей 
+1. Запустите программу [Sequence Matrix](http://gaurav.github.io/taxondna/) program
+2. Перетащите в окно программы файл [irbp.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/irbp.fasta) 
+3. Выберите **Use species names**
+4. Сохраните последовательности в формате NEXUS ("naked"):<br/>
 [irbp.nex](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/irbp.nex)
-5. Export sequences as Phylip (RAxML)<br/>
+5. Сохраните последовательности в формате Phylip (RAxML)<br/>
 [irbp.phy](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/irbp.phy)
-6. In the top **File** menu, select **Clear all sequences**
-6. Drag and drop [cytb.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/cytb.fasta) file to Sequence Matrix window
-7. Click **Use species names**
-8. Export sequences in Nexus format ("naked" Nexus for GARLI):<br/>
+6. Откройте меню **File** и выберите **Clear all sequences**
+7. Перетащите в окно программы файл [cytb.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/cytb.fasta) 
+8. Выберите **Use species names**
+9. Сохраните последовательности в формате NEXUS ("naked"):<br/>
 [cytb.nex](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/cytb.nex)
-9. Export sequences as Phylip (RAxML)<br/>
+9. Сохраните последовательности в формате Phylip (RAxML)<br/>
 [cytb.phy](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/cytb.phy)
-10. Drag and drop [irbp.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/irbp.fasta) file to Sequence Matrix window
-11. Export sequences in Nexus format ("naked" Nexus for GARLI):<br/>
+10. Перетащите в окно программы файл [irbp.fasta](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/irbp.fasta) file to Sequence Matrix window
+11. Сохраните последовательности в формате NEXUS ("naked"):<br/>
 [bears.nex](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/bears.nex)
-12. Export sequences as Phylip (RAxML)<br/>
+12. Сохраните последовательности в формате Phylip (RAxML)<br/>
 [bears.phy](https://raw.githubusercontent.com/vinni-bio/WS-20160909/master/LAB1/bears.phy)
 
-### F. Check entrees for *irbp* protein in UniProt Database
-1. Go to http://www.uniprot.org/
-2. In the search line, enter:<br/>
+### E. Ознакомьтесь с функцией белка *irbp* в базе данных UniProt 
+1. Зайдите на страницу http://www.uniprot.org/
+2. В меню поиска, введите:<br/>
 `name:"interphotoreceptor retinoid binding"`
-3. In the search line, enter:<br/>
+3. В меню поиска, введите:<br/>
 `name:"interphotoreceptor retinoid binding” AND taxonomy:”Ursidae”`
